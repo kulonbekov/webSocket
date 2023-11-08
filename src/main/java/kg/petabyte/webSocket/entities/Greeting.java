@@ -1,4 +1,4 @@
-package kg.petabyte.webSocket;
+package kg.petabyte.webSocket.entities;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
